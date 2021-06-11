@@ -1,0 +1,4 @@
+check if out of bounds on top by using height of piece and the max height of the column
+check if out of bounds on side by using width of piece and the width of the board
+give each piece a height, width, 
+put block in lowest difference place between board and block min(board-block)
